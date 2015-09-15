@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=int\ roman_pos(char)
+comment1.params=in
+comment1.target=int\ decimal_no(int)
+comment2.params=
+comment2.target=void\ logic()
+comment3.params=
+comment3.target=void\ display()
+numComments=4
